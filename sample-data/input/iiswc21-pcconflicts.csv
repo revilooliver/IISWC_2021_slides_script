@@ -1,0 +1,8 @@
+paper,title,first,last,email,conflicttype
+10,Test title 1,pc,#5,5@gmail.com,Author
+11,Test title 2,pc,#2,2@gmail.com,Conflict
+11,Test title 2,pc,#7,7@gmail.com,Conflict
+11,Test title 2,pc,#9,9@gmail.com,Conflict
+12,Test title 3,pc,#2,2@gmail.com,Conflict
+12,Test title 3,pc,#5,5@gmail.com,Conflict
+12,Test title 3,pc,#12,12@gmail.com,Conflict
